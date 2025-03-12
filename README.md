@@ -40,3 +40,11 @@ Application Layer: Business logic handled with Bloc Use Cases.
 Domain Layer: Core logic with Entities & Validation.
 Infrastructure Layer:
 Remote Data Source: REST API
+## Group Members  
+| Name                | Student ID    |  
+|---------------------|---------------|  
+| Yeabsira Yibeltal   | UGR/5562/15   |  
+| Samuel Teferi       | UGR/1535/15   |  
+| Henok Yonas         | UGR/4016/15   |  
+| Abenezer Elias      |  UGR/3180/15  | 
+| Blen Gebre          | UGR/0847/15   | 
